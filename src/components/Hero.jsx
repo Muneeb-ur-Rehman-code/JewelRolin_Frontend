@@ -59,7 +59,7 @@ export default function Hero() {
         <div className="relative w-full max-w-md">
           <div className="absolute inset-0 bg-gradient-to-r from-[var(--accent)] to-[var(--brand)] blur-3xl opacity-30 rounded-full -z-10" />
           <img
-            src="/JeweRolin.png"
+            src="/src/assets/JeweRolin.png"
             alt="Hero"
             className="w-full h-auto rounded-2xl shadow-2xl hover:scale-[1.02] transition-transform"
           />
