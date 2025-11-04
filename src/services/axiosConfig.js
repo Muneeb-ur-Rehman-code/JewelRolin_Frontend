@@ -1,7 +1,7 @@
 // src/services/axiosConfig.js
 import axios from "axios";
 
-const API_BASE = "http://localhost:5000";
+const API_BASE = "https://jewelrolinbackend-production.up.railway.app/";
 
 // Create axios instance WITHOUT forcing global Content-Type JSON
 const api = axios.create({

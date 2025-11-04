@@ -24,7 +24,7 @@ export default function Success() {
 
       try {
         // ✅ CALL YOUR BACKEND (change port if needed)
-        const backendURL = "http://localhost:5000/api/payments/verify-session";
+        const backendURL = "https://jewelrolinbackend-production.up.railway.app//api/payments/verify-session";
 
         const res = await axios.get(backendURL, {
           params: { session_id: sessionId },
