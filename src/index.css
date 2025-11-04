@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+  --accent: #f59e0b; /* amber-500 */
+  --brand: #006dff; /* your blue */
+}
+
+
+/* small custom */
+.fade-in { animation: fadeIn .45s ease both; }
+@keyframes fadeIn { from { opacity:0; transform: translateY(6px);} to {opacity:1; transform:none;} }

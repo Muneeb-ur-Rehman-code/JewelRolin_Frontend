@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "Golden Necklace",
+    "price": 2500,
+    "image": "https://via.placeholder.com/300x300.png?text=Golden+Necklace",
+    "description": "Elegant handcrafted golden necklace."
+  },
+  {
+    "id": "2",
+    "title": "Pearl Earrings",
+    "price": 1200,
+    "image": "https://via.placeholder.com/300x300.png?text=Pearl+Earrings",
+    "description": "Shiny pearl earrings for formal and casual wear."
+  }
+]
