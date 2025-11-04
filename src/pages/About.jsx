@@ -33,7 +33,7 @@ export default function About() {
           >
             <div className="absolute -top-6 -left-6 w-24 h-24 bg-gradient-to-r from-[var(--accent)] to-[var(--brand)] opacity-20 blur-3xl rounded-full"></div>
             <img
-              src="/src/assets/JeweRolin.png"
+              src="/JeweRolin.png"
               alt="About JewelRolin"
               className="w-full h-auto rounded-2xl shadow-2xl hover:scale-[1.03] transition-transform duration-500"
             />
